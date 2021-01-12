@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/redux-blog/static/css/main.793f2877.chunk.css",
+    "main.js": "/redux-blog/static/js/main.78a86fbc.chunk.js",
+    "main.js.map": "/redux-blog/static/js/main.78a86fbc.chunk.js.map",
+    "runtime-main.js": "/redux-blog/static/js/runtime-main.02a2b30c.js",
+    "runtime-main.js.map": "/redux-blog/static/js/runtime-main.02a2b30c.js.map",
+    "static/js/2.4d7cbf63.chunk.js": "/redux-blog/static/js/2.4d7cbf63.chunk.js",
+    "static/js/2.4d7cbf63.chunk.js.map": "/redux-blog/static/js/2.4d7cbf63.chunk.js.map",
+    "index.html": "/redux-blog/index.html",
+    "static/css/main.793f2877.chunk.css.map": "/redux-blog/static/css/main.793f2877.chunk.css.map",
+    "static/js/2.4d7cbf63.chunk.js.LICENSE.txt": "/redux-blog/static/js/2.4d7cbf63.chunk.js.LICENSE.txt",
+    "static/media/home.1fa40934.jpg": "/redux-blog/static/media/home.1fa40934.jpg",
+    "static/media/input.5392032d.jpg": "/redux-blog/static/media/input.5392032d.jpg",
+    "static/media/loading.f8189684.svg": "/redux-blog/static/media/loading.f8189684.svg",
+    "static/media/me.13169f19.jpg": "/redux-blog/static/media/me.13169f19.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02a2b30c.js",
+    "static/js/2.4d7cbf63.chunk.js",
+    "static/css/main.793f2877.chunk.css",
+    "static/js/main.78a86fbc.chunk.js"
+  ]
+}
