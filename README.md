@@ -4,7 +4,6 @@
 
 - [Demo](https://v61265.github.io/redux-blog/#/)
 - [Lidemy API](https://github.com/Lidemy/lidemy-student-json-api-server)
-  ![](https://i.imgur.com/bpAWwK8.gif)
 
 ### 功能
 
@@ -40,7 +39,11 @@
   - /constants
     - breakpoint.js
     - /images
-  - /pages - /AboutPage - /AddPostPage - /EditPostPage - /HomePage
+  - /pages 
+    - /AboutPage 
+    - /AddPostPage 
+    - /EditPostPage 
+    - /HomePage
     - /LoginPage
       - /PostPage
       - /PostsPage
