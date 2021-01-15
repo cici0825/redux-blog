@@ -5,7 +5,7 @@
 - [Demo](https://v61265.github.io/redux-blog/#/)
 - [Lidemy API](https://github.com/Lidemy/lidemy-student-json-api-server)
 
-![](https://i.imgur.com/t8tkNRl.gif)
+![](https://i.imgur.com/zeShglw.gif)
 
 ### 功能
 
